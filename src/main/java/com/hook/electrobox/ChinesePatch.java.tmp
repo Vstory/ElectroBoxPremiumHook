@@ -1,0 +1,120 @@
+// DATABASE CONTENT - Add before the last closing brace in init()
+        
+        // ===== Database: Interface/Port names =====
+        put("Thunderbolt", "雷电接口");
+        put("Mini-VGA Pinout", "Mini-VGA 引脚图");
+        put("Micro-DVI Pinout", "Micro-DVI 引脚图");
+        put("Accelerated Graphics Port", "加速图形端口");
+        put("Scart", "SCART 连接器");
+        put("RS232 Null Modem Mapping", "RS232 零调制解调器映射");
+        put("Fuses color coding", "保险丝颜色编码");
+        put("USB 3.0/3.1 Type B", "USB 3.0/3.1 Type B");
+        put("PS/2 Pinout", "PS/2 引脚图");
+        put("PS/2 port", "PS/2 端口");
+        put("IBM Personal System/2 Port", "IBM 个人系统/2 端口");
+        
+        // ===== Database: Descriptions =====
+        put("AGP was originally designed as a successor to PCI-type connections for video cards. It was introduced in 1997. Shortly after its introduction, AGP was adopted by most computer hardware manufacturers, quickly supplanting PCI as the standard used for graphics cards.", "AGP 最初是作为 PCI 类型显卡连接的继任者而设计的，于 1997 年推出。AGP 很快被大多数计算机硬件制造商采用，迅速取代 PCI 成为显卡的标准接口。");
+        put("AGP slot first appeared on x86-compatible system boards based on Socket 7 Intel P5 Pentium and Slot 1 P6 Pentium II processors.", "AGP 插槽最早出现在基于 Socket 7 Intel P5 Pentium 和 Slot 1 P6 Pentium II 处理器的 x86 兼容主板上。");
+        put("Since 2004, AGP has been progressively phased out in favor of PCI Express (PCIe).", "自 2004 年以来，AGP 已逐渐被 PCI Express (PCIe) 取代。");
+        put("Fuses are an essential part of any electrical system. They are designed to fail automatically in the event of an electrical overload or short.", "保险丝是任何电气系统的重要组成部分，设计用于在电气过载或短路时自动熔断。");
+        put("sacrificing themselves to save your wiring harness.", "牺牲自身以保护您的线路。");
+        put("Given the nature of how fuses work, it's critical that you use the proper amp rating for the circuit.", "鉴于保险丝的工作原理，使用正确的电流额定值至关重要。");
+        put("Too low a value and your fuses will blow prematurely, while using too high a value defeats the purpose of the fuse in the first place.", "额定值过低会导致保险丝过早熔断，而额定值过高则失去了保险丝的保护作用。");
+        put("Its essential component is a metal wire or strip that melts when too much current flows through it, thereby stopping or interrupting the current.", "其核心部件是一根金属丝或金属带，当电流过大时会熔断，从而停止或中断电流。");
+        put("Thunderbolt is an interface for the connection of external peripherals to a computer.", "雷电接口是一种用于将外部设备连接到计算机的接口。");
+        put("VGA is a standard video interface used by computers. It is used to transmit analog video signals.", "VGA 是计算机使用的标准视频接口，用于传输模拟视频信号。");
+        put("DVI is a video display interface. It was developed with the intention of creating an industry-wide standard for the transfer of digital video content.", "DVI 是一种视频显示接口，旨在创建数字视频内容传输的行业标准。");
+        put("Universal Serial Bus (USB) is a standard for cables, connectors and protocols for connection, communication and power supply.", "通用串行总线 (USB) 是一种用于连接、通信和供电的电缆、连接器和协议标准。");
+        put("The SCART connection system is a connection standard used for connecting audio-visual equipment.", "SCART 连接系统是一种用于连接视听设备的连接标准。");
+        put("Recommended Standard 232 is a standard for serial communication transmission of data.", "推荐标准 232 是一种串行数据通信传输标准。");
+        put("A fuse is a small electrical component that protects your electrical circuit from overcurrent.", "保险丝是一种小型电气元件，用于保护您的电路免受过电流影响。");
+        
+        // ===== Database: Port families =====
+        put("Mini-DIN", "Mini-DIN");
+        put("PS/2", "PS/2");
+        put("USB", "USB");
+        put("Serial", "串口");
+        put("Parallel", "并口");
+        put("Video", "视频");
+        put("Audio", "音频");
+        put("Power", "电源");
+        put("Data", "数据");
+        put("Network", "网络");
+        put("Industrial", "工业");
+        put("Telecom", "通信");
+        put("Automotive", "汽车");
+        put("Military", "军用");
+        put("Medical", "医疗");
+        put("Other", "其他");
+        
+        // ===== Database: Board/Component names =====
+        put("Arduino", "Arduino");
+        put("Raspberry Pi", "树莓派");
+        put("ESP32", "ESP32");
+        put("ESP8266", "ESP8266");
+        put("STM32", "STM32");
+        put("Arduino Uno", "Arduino Uno");
+        put("Arduino Mega", "Arduino Mega");
+        put("Arduino Nano", "Arduino Nano");
+        put("Raspberry Pi Pico", "树莓派 Pico");
+        put("BeagleBone", "BeagleBone");
+        put("ODROID", "ODROID");
+        put("Banana Pi", "香蕉派");
+        put("Pine64", "Pine64");
+        put("LattePanda", "LattePanda");
+        
+        // ===== Database: Generic labels =====
+        put("Information", "信息");
+        put("Completed", "已完成");
+        put("Working On", "正在开发");
+        put("In Progress", "进行中");
+        put("Pinout", "引脚图");
+        put("Pinout:", "引脚图：");
+        put("Pin", "引脚");
+        put("Pins", "针脚");
+        put("Signal", "信号");
+        put("Signals", "信号列表");
+        put("Color", "颜色");
+        put("Type", "类型");
+        put("Category", "分类");
+        put("Description", "描述");
+        put("Open", "打开");
+        put("OPEN", "打开");
+        put("Download", "下载");
+        put("View", "查看");
+        put("View all", "查看全部");
+        put("Show more", "显示更多");
+        put("Show less", "显示更少");
+        put("Port family:", "端口系列：");
+        put("Interfaces using this port", "使用此端口的接口");
+        put("Pinouts with this port", "使用此端口的引脚图");
+        put("Available pins", "可用引脚");
+        put("Total pins", "总针脚数");
+        put("Male", "公头");
+        put("Female", "母头");
+        put("Plug", "插头");
+        put("Socket", "插座");
+        put("Connector", "连接器");
+        put("Cable", "电缆");
+        put("Adapter", "适配器");
+        put("Active", "活跃");
+        put("Inactive", "不活跃");
+        put("Deprecated", "已弃用");
+        put("Legacy", "传统");
+        put("Standard", "标准");
+        put("Proprietary", "专有");
+        put("Open standard", "开放标准");
+        put("Max speed", "最大速度");
+        put("Bandwidth", "带宽");
+        put("Resolution", "分辨率");
+        put("Year introduced", "引入年份");
+        put("Manufacturer", "制造商");
+        put("Developer", "开发者");
+        put("Status", "状态");
+        put("Rating", "评分");
+        put("Reviews", "评论");
+        put("Downloads", "下载量");
+        put("Share", "分享");
+        put("Bookmark", "书签");
+        print("Database content translations added");

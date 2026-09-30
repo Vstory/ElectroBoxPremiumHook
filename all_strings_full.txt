@@ -1,0 +1,344 @@
+Flashlight.
+Please double check your input for validity.
+Sound (10 inputs for different frequencies)
+Vibration
+_3_9k_reviews|4128 Reviews
+_500k_downloads|500K+ Downloads
+adc_calc_desc|Find output voltages and values of Analog to Digital Converters. 
+adc_calc_title|Analog to Digital
+adc_value|ADC Value
+adc_volt|ADC Voltage
+add_more|Add More
+ads_settings|Ads Advanced Settings
+agp_fn|Accelerated Graphics Port
+agp_name|AGP
+agp_port_name|AGP
+agree|Agree
+all_devices|All Devices
+analog_audio_fn|Analog Audio
+analog_audio_name|Analog Audio
+analog_input_pins|Analog Input Pins
+analog_output_pins|Analog Output Pins
+analog_signal_image|Analog signal image
+analog|Analog
+app_name|ElectroBox - Electronics
+apple_30_family_name|Apple 30-pin dock connector
+apple_30_pin_fn|Apple 30-pin dock connector
+apple_30_pin_name|Apple 30-pin dock connector
+apple_dock_port_name|Apple 30-pin dock port
+apple_lightning_fn|Apple lightning connector
+apple_lightning_name|Lightning connector
+apply|Apply
+apps|Apps
+ascending|Ascending
+at_keyboard_fn|Advanced Technology keyboard
+at_keyboard_name|AT Keyboard
+atx_20_port_name|20 PIN ATX
+atx_24_port_name|24 PIN ATX
+atx_4_port_name|4 pin ATX + 12V
+atx_fn|Advanced Technology eXtended
+atx_name|ATX Power Supply
+audio_data_image|Audio data image
+audio|Audio
+auxiliary_6_pin_port_name|Auxiliary 6Pin
+av_composite_fn|Audio/Video Composite Analog
+av_composite_name|AV Composite analog
+average_consumption|Average Consumption
+average_voltage|Average Voltage
+backspace|Backspace
+band_num|Bands
+bands_3|3 Bands
+bands_4|4 Bands
+bands_5|5 Bands
+bands_6|6 Bands
+battery_calc_time_positive|The overall usage time should be greater than 0
+battery_capacity|Battery Capacity
+battery_life|Battery Life
+battery_powered|Battery Powered
+bluetooth|Bluetooth
+boards_desc|Single-board microcontrollers and microcontroller kits are equipped with sets of digital and analog input/output (I/O).
+boards|Boards
+calc_adc_value|Calculate ADC Value
+calc_adc_volt|Calculate ADC Voltage
+calc_battery_desc|Calculate the approximate life of a battery based on its capacitance and usage.
+calc_battery_title|Battery Life
+calc_current|Calculate Current
+calc_error|Errors were encountered while performing calculations.
+calc_output_volt|Calculate Output Voltage
+calc_res1|Calculate Resistor 1
+calc_res2|Calculate Resistor 2
+calc_resistance|Calculate Resistance
+calc_supply_volt|Calculate Supply Voltage
+calc_voltage|Calculate Voltage
+calcs_new_desc|We are currently working on adding MORE THAN 30 NEW FREE CALCULATORS which will be available the next month.
+calcs_short_desc|These electrical and electronics engineering calculators are here to help you solve complex equations and calculations quickly.
+calculate_input|Calculate Input
+calculate_output|Calculate Output
+calculate|Calculate
+calculators_section_is_new|Calculators section is new!
+calculators|Calculators
+cancel|Cancel
+can|CAN
+cap_calc_desc|Find the total capacitance of a circuit with capacitors.
+cap_calc_title|Capacitors Connecting
+capacitance|Capacitance
+capacitor_num|Capacitor %1$s
+car_audio_fn|Car audio ISO
+car_audio_name|Car audio ISO
+catalog|Catalog
+centronics_36_port_name|Centronics 36-pin Micro ribbon connector
+chip_image|Chip image
+chip_text|Chip text
+clear_recent_searches_button|Clear recent searches button
+clear_text_end_icon_content_description|Clear text
+close|Close
+color_black|Black
+color_blue|Blue
+color_brown|Brown
+color_gray|Gray
+color_green|Green
+color_light_gray|Light Gray
+color_light_purple|Purple
+color_light_tan|Tan
+color_light_teal|Teal
+color_light_violet|Violet
+color_no_color|No Color
+color_orange|Orange
+color_pink|Pink
+color_red|Red
+color_white|White
+color_yellow|Yellow
+communication|Communication
+completed|Completed
+component_video_fn|Luma-based analog component video
+component_video_name|YPbPr Component Video
+conductor_40_port_name|40-Conductor
+conductor_44_port_name|44-Pin
+contact_us|Contact Us
+current|Current
+cvbs_fn|Composite video baseband signal
+cvbs_name|CVBS
+d_sub_family_name|D-subminiature
+da_15_port_name|DA-15
+dark_mode_image|Dark mode image
+dark_mode|Dark Mode
+data_transfer_image|Data transfer image
+data|Data
+db_25_port_name|DB-25
+de_9_port_name|DE-9
+debug_swd|Debug SWD
+descending|Descending
+describe_where_is_the_error|Describe where is the error
+description_text1|Use device's sensors as inputs or outputs. Many sensors can be used as inputs:
+description_text3|Many device's components can be used as outputs too:
+description_text4|Buzzer (Frequency)
+description_text5|Available options:
+description|Description
+diagnostic_family_name|Diagnostic connector
+digital_pins|Digital Pins
+digital_signal_image|Digital signal image
+digital|Digital
+dimensions|Dimensions
+din_5_180_port_name|DIN 5-PIN 180
+din_family_name|DIN
+display_port_mini_port_name|Mini Display Port
+display_port_port_name|Display Port
+dmx_fn|Digital Multiplex with 512 pieces of information
+dmx_name|DMX512 Lighting control
+done_indicator|Done indicator
+done_with_editing_list|Done with editing list
+done|Done
+download|Download
+dp_family_name|Display Port
+dp_fn|DisplayPort
+dp_name|DP
+drag_button|Drag button
+dvi_a_port_name|DVI-A
+dvi_d_dual_port_name|DVI-D Dual Link
+dvi_d_single_port_name|DVI-D Single Link
+dvi_family_name|DVI
+dvi_fn|Digital Visual Interface
+dvi_i_dual_port_name|DVI-I Dual Link
+dvi_i_single_port_name|DVI-I Single Link
+dvi_name|DVI
+e_sata_port_name|eSATA
+edge_family_name|Edge connector
+edit_list|Edit list
+education|Education
+eeprom|EEPROM
+eisa_fn|Extended Industry Standard Architecture
+eisa_name|EISA
+eisa_port_name|EISA
+energy_transfer_image|Energy transfer image
+energy|Energy
+english|English (English)
+eps_8_port_name|8 PIN EPS + 12V
+error_icon_content_description|Error
+error_loading_prices|Please connect to the internet.
+error_purchasing|Error purchasing
+error|Error
+ethernet_fn|IEEE 802.3 Ethernet
+ethernet_name|Ethernet
+eula_description|The second addition to the high quality electronics applications we provide will help you learn the basics of interfaces.
+favourites_are_empty|Favourites are empty.
+favourites|Favourites
+firewire_4_port_name|FireWire 4Pin
+firewire_6_port_name|FireWire 6Pin
+firewire_9_port_name|FireWire 9Pin
+firewire_family_name|FireWire
+firewire_fn|IEEE 1394 FireWire
+firewire_name|FireWire
+five_star_rating|Five start rating
+flash|FLASH
+floppy_port_name|Floppy Drive
+four_star_rating|Four start rating
+fpga|FPGA
+french|Français (French)
+freq_calc_desc|Convert through the different parameters of waves.
+freq_calc_title|Wave Parameters
+freq|Frequency
+from_0_01nm_to_10nm|0.01nm to 10nm
+from_10nm_to_380nm|10nm to 380nm
+from_1mm_to_1m|1mm to 1m
+from_380nm_to_750nm|380nm to 750nm
+from_750nm_to_1mm|750nm to 1mm
+game_port_fn|Game Port
+game_port_name|Game Port
+gamma1|Gamma:
+gamma|Gamma
+german|Deutsch (German)
+get_premium_features|Get Premium Features
+go_premium_details_text|With this one-time purchase you unlock all premium features and remove the ads. The license can be used on all devices with your Google account.
+gpib_fn|IEEE-488 General Purpose Interface Bus
+gpib_name|GPIB
+gpib_port_name|GPIB IEEE 488
+gsm|GSM
+hd_15_port_name|HD-15
+hdmi_a_port_name|HDMI Standard A
+hdmi_b_port_name|HDMI Dual Link B
+hdmi_c_port_name|HDMI Mini C
+hdmi_d_port_name|HDMI Mirco D
+hdmi_e_port_name|HDMI Automative E
+hdmi_family_name|HDMI
+hdmi_fn|High-Definition Multimedia Interface
+hdmi_name|HDMI
+high_ref_vol|High Reference Voltage
+history|History
+home|Home
+i2c|I2C
+icon_content_description|Dialog Icon
+idle_time|Idle Time
+idle_usage|Idle Current
+if_you_have_encountered_any_errors_you_can_report_them_we_usually_fix_them_within_a_week|If you have encountered any errors, you can report them. We usually fix them within a week.
+in_progress_indication|In progress indication
+in_progress|In Progress
+ind_calc_desc|Find the total inductance of a circuit with inductors.
+ind_calc_title|Inductors Connecting
+indonesian|Bahasa Indonesia (Indonesian)
+inductance|Inductance
+inductor_color_calc_desc|Easily find the values of the inductors by their band colors.
+inductor_color_calc_title|Inductor Colors
+inductor_num|Inductor %1$s
+information|Information
+infrared1|Infrared:
+infrared|Infrared
+input_frq|Input Frequency
+input_period|Input Period
+input_range|Input Range
+input_value|Input Value
+input_voltage|Input Voltage
+input_wavelenght|Input Wavelength
+input|Input
+interface_image|Interface image
+interfaces_using_this_port|Interfaces using this port
+interfaces|Interfaces
+io_current|IO Current
+io_voltage|IO Voltage
+io|IO
+is_there_anything_missing_that_you_would_like_to_see_in_the_application_request_it_and_we_will_add_it|Is there anything missing that you would like to see in the application? Request it and we will add it.
+isa_fn|Industry Standard Architecture
+isa_name|ISA
+isa_port_name|ISA
+iscp_usb|ISPC USB Interface
+iscp|ISCP
+iso_10487_port_name|ISO 10487
+iso_11446_port_name|ISO 11446
+iso_1185_port_name|ISO 1185
+iso_12098_port_name|ISO 12098
+iso_1724_5_port_name|ISO 1724 5-Pin
+iso_1724_7_port_name|ISO 1724 7-Pin
+iso_3731_port_name|ISO 3731
+iso_3732_port_name|ISO 3732
+iso_7638_1_port_name|ISO 7638–1
+iso_7638_2_port_name|ISO 7638–2
+iso_audio_family_name|ISO Audio Connectors
+iso_trailer_family_name|ISO Trailer Connectors
+italian|Italiano (Italian)
+item_image|Item image
+item_view_role_description|Tab
+items|Items
+j1962_port_name|J1962 Diagnostic connector
+japanese|日本語 (Japanese)
+jtag_10_port_name|10-pin JTAG
+jtag_12_port_name|12-pin JTAG
+jtag_14_port_name|14-pin JTAG
+jtag_20_port_name|20-pin JTAG
+jtag_8s_port_name|8-pin JTAG Single Row
+jtag_9s_port_name|9-pin JTAG Single Row
+jtag_family_name|JTAG
+jtag_fn|Joint Test Action Group
+jtag_name|JTAG
+keep_screen_on_image|Keep screen on image
+keep_screen_on|Keep Screen On
+korean|한국어 (Korean)
+language|Language
+length|Length
+lifetime_license|Lifetime License
+lightning_family_name|Apple Lightning connector
+lightning_port_name|Apple lightning port
+loading|Loading
+logic_circuit_simulator_pro|Logic Circuit Simulator Pro
+lora|Lora
+love_button|Add to favourites
+low_ref_vol|Low Reference Voltage
+lte|LTE
+main_processor|Main Processor
+maximum|Maximum
+mca_fn|Micro Channel architecture
+mca_name|MCA
+mca_port_name|MCA
+memory_card_family_name|Memory Cards
+memory|Memory
+micro_dvi_port_name|Micro-DVI
+micro_ribbon_family_name|Mirco Ribbon Connector
+micro_sd_port_name|micro SD
+micro_sim_port_name|microSIM
+microcontroller_placeholder|Microcontroller: %1$s
+microcontroller|Microcontroller
+microwave1|Microwave:
+microwave|Microwave
+midi_fn|Musical Instrument Digital Interface
+midi_name|MIDI
+military|Military Standard
+mini_din_4_port_name|Mini-DIN-4
+mini_din_6_port_name|Mini-DIN-6
+mini_din_family_name|Mini-DIN
+mini_dvi_port_name|Mini-DVI
+mini_sd_port_name|mini SD
+mini_sim_port_name|miniSIM
+mini_vga_family_name|Mini VGA
+mini_vga_port_name|Mini VGA
+minimum|Minimum
+minus|Minus
+modular_family_name|Modular connector
+molex_family_name|MOLEX
+more_than_1m|More than 1m
+name|Name
+nano_sim_port_name|nanoSIM
+navigate_back|Navigate back
+new_n|New
+news_image|News image
+next|Next
+no_mail_installed|No email application found!
+no_results|No results
+non_standard_resistor|Non-standard resistor
